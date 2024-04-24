@@ -1,2 +1,21 @@
-# CoffeeShop
- Coffee shop website using AWS services fore CodeBrew Coffee Co.
+# CodeBrews Coffee Co.
+
+__"At CodeBrew Coffee Corporation, we're not just brewing coffee, we're coding coffee - each sip is a byte of inspiration!"__
+
+## About The Project
+
+Built using modern web development technologies such as HTML5, CSS3, JavaScript, and Bootstrap framework, our website is designed to be responsive, intuitive, and user-friendly across desktop and mobile devices.
+
+Leveraging AWS for the backend infrastructure of the CodeBrew Coffee Corporation website empowers the business with a robust, reliable, and scalable platform to deliver an exceptional online experience to customers while ensuring security, performance, and cost-effectiveness.
+
+### Built With
+
+* [Amazon Web Services](aws-url)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[aws-url]: https://aws.amazon.com/products/?nc2=h_ql_prod_fs_f&aws-products-all.sort-by=item.additionalFields.productNameLowercase&aws-products-all.sort-order=asc&awsf.re%3AInvent=*all&awsf.Free%20Tier%20Type=*all&awsf.tech-category=*all
+
+### Helpful Links
+
+* [Azure Pet Store Learning Guide](https://chtrembl.github.io/azure-cloud/petstore/)
