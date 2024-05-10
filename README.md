@@ -20,3 +20,5 @@ Leveraging AWS for the backend infrastructure of the CodeBrew Coffee Corporation
 ### Helpful Links
 
 - [Azure Pet Store Learning Guide](https://chtrembl.github.io/azure-cloud/petstore/)
+
+- [Azure -> AWS Translation](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/compute)
