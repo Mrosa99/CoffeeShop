@@ -12,6 +12,8 @@ Leveraging AWS for the backend infrastructure of the CodeBrew Coffee Corporation
 
 - [Amazon Web Services](https://aws.amazon.com/console/)
 
+- [GitHub] (https://github.com)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
@@ -22,3 +24,5 @@ Leveraging AWS for the backend infrastructure of the CodeBrew Coffee Corporation
 - [Azure Pet Store Learning Guide](https://chtrembl.github.io/azure-cloud/petstore/)
 
 - [Azure -> AWS Translation](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/compute)
+
+- [Quickstart for GitHub Actions](https://docs.github.com/en/actions/quickstart)
