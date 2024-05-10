@@ -26,3 +26,5 @@ Leveraging AWS for the backend infrastructure of the CodeBrew Coffee Corporation
 - [Azure -> AWS Translation](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/compute)
 
 - [Quickstart for GitHub Actions](https://docs.github.com/en/actions/quickstart)
+
+- [NGINX Docs?](https://docs.nginx.com/nginx-ingress-controller/overview/)
