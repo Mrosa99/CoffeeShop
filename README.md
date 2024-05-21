@@ -28,3 +28,5 @@ Leveraging AWS for the backend infrastructure of the CodeBrew Coffee Corporation
 - [Quickstart for GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
 - [NGINX Docs?](https://docs.nginx.com/nginx-ingress-controller/overview/)
+
+- [LightsailEnviornment](https://www.wpmentor.com/wordpress-with-nginx-lightsail/#:~:text=Nginx%20is%20a%20very%20powerful,Ubuntu%20available%20in%20AWS%20Lightsail.)
