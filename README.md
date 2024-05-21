@@ -12,7 +12,7 @@ Leveraging AWS for the backend infrastructure of the CodeBrew Coffee Corporation
 
 - [Amazon Web Services](https://aws.amazon.com/console/)
 
-- [GitHub] (https://github.com)
+- [GitHub](https://github.com)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
