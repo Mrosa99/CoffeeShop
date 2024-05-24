@@ -30,5 +30,3 @@ Leveraging AWS for the backend infrastructure of the CodeBrew Coffee Corporation
 - [NGINX Docs?](https://docs.nginx.com/nginx-ingress-controller/overview/)
 
 - [Lightsail Enviornment](https://docs.aws.amazon.com/lightsail/latest/userguide/amazon-lightsail-tutorial-launching-and-configuring-wordpress.html)
-
-- [IAM Creation](https://docs.aws.amazon.com/lightsail/latest/userguide/amazon-lightsail-managing-access-for-an-iam-user.html)
