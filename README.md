@@ -14,6 +14,8 @@ Leveraging AWS for the backend infrastructure of the CodeBrew Coffee Corporation
 
 - [GitHub](https://github.com)
 
+- [Lucid Chart](https://lucid.app/lucidchart/5056a8c6-0d13-4a05-8085-088fc7533fee/edit?invitationId=inv_537cb704-bfc4-4f93-b80d-be42fb1b8bf7&page=0_0#)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
